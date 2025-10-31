@@ -17,8 +17,7 @@ It supports:
 ---
 
 ## 🚀 Live Demo
-👉 **Deployed on Netlify:** [https://incandescent-trifle-a01ceb.netlify.app/](https://incandescent-trifle-a01ceb.netlify.app/)  
-*(Replace with your actual Netlify URL after deployment.)*
+👉 **Deployed on Netlify:** [https://melodic-mandazi-bfecc6.netlify.app/](https://melodic-mandazi-bfecc6.netlify.app/) 
 
 ---
 
@@ -41,7 +40,6 @@ It supports:
 - **React**
 - **React Slick**
 - **Vite** (for fast development)
-- **Tailwind CSS** (optional, if used)
 - **ARIA Roles and Attributes** for accessibility
 
 ---
